@@ -1,5 +1,5 @@
 # CS406 - Xử Lý Ảnh Và Ứng Dụng
-
+# Trần Quang Đạt - MSSV: 22520236
 ## Mô tả môn học
 Môn học **CS406 - Xử Lý Ảnh và Ứng Dụng** tập trung vào các khái niệm cơ bản và các kỹ thuật xử lý ảnh, bao gồm:
 - Chuyển đổi ảnh số

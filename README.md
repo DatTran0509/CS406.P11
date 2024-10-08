@@ -51,12 +51,3 @@ Dự án cuối kỳ yêu cầu sinh viên xây dựng một hệ thống nhận
   - Matplotlib
   - scikit-image
 
-## Cài đặt môi trường
-
-1. **Cài đặt Python**: 
-   Tải và cài đặt [Python 3.x](https://www.python.org/downloads/).
-
-2. **Cài đặt các thư viện cần thiết**:
-   Sử dụng pip để cài đặt các thư viện Python:
-   ```bash
-   pip install opencv-python numpy matplotlib scikit-image
